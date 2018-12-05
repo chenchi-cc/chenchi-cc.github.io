@@ -1,1 +1,7 @@
-css/main.css.map
+_site/
+*.swp
+*.~vsd
+\#*\#
+*~
+.DS_Store
+Gemfile.lock
