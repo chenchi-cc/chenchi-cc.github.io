@@ -5,10 +5,10 @@ baseurl:
 url: https://darrenchanchenchi.github.io
 date_format: "ordinal"
 title: DarrenChan陈驰
-subtitle: "相逢太短，等不及茶凉，若是长驻，我想陪你走完这一场。"
-description: "陈驰的个人博客"
+subtitle: "无人扶我青云志，我自踏雪至山巅"
+description: "陈驰的技术博客"
 keywords: Java, 后台开发, 大数据, 机器学习
-timezone: Asia/Shanghai
+timezone: Asia/Beijing
 encoding: "utf-8"
 side_bar_repo_limit: 5
 
@@ -20,7 +20,7 @@ organization: zkh360.com
 organization_url: http://www.zkh360.com
 github_username: mzlogin
 location: Beijing, China
-email: darrenchan1992@chenchi.xyz
+email: darrenchan1992@gmail.com
 
 # ---------------- #
 #    Navigation    #
