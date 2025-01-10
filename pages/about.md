@@ -1,18 +1,20 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 代码改变世界
+keywords: Darren Chan, 陈驰
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+我是陈驰，计算机硕士研究生。
 
 仰慕「优雅编码的艺术」。
 
-坚信熟能生巧，努力改变人生。
+坚信熟能生巧，坚信勤能补拙。
+
+无人扶我青云志，我自踏雪至山巅。
 
 ## 联系
 
