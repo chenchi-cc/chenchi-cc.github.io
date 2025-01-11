@@ -7,7 +7,7 @@ date_format: "ordinal"
 title: DarrenChan陈驰
 subtitle: "无人扶我青云志，我自踏雪至山巅"
 description: "陈驰的技术博客"
-keywords: Java, 后台开发, 大数据, 机器学习
+keywords: Java, 大数据, 机器学习
 timezone: Asia/Beijing
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -15,10 +15,10 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: DarrenChan
-organization: zkh360.com
-organization_url: http://www.zkh360.com
-github_username: mzlogin
+author: DarrenChan陈驰
+organization: DarrenChan陈驰
+organization_url: https://www.cnblogs.com/darrenchan
+github_username: chenchi-cc
 location: Beijing, China
 email: darrenchan1992@gmail.com
 
