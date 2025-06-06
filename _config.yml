@@ -5,12 +5,12 @@ baseurl:
 url: https://chenchi-cc.github.io
 date_format: "ordinal"
 title: DarrenChan陈驰
-subtitle: "无人扶我青云志，我自踏雪至山巅"
+subtitle: "致力于成为精通大数据、后台开发和算法的全栈架构师"
 description: "陈驰的技术博客"
 keywords: Java, 大数据, 机器学习
 timezone: Asia/Beijing
 encoding: "utf-8"
-side_bar_repo_limit: 5
+side_bar_repo_limit: 10
 
 # ---------------- #
 #      Author      #

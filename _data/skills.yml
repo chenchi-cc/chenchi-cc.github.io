@@ -4,8 +4,9 @@
       - Scala
       - Python
       - SQL
-      - Golang
+      - Go
       - Shell
+      - JavaScript/TypeScript
 
 - name: BigData Skills
   keywords:
@@ -16,13 +17,19 @@
       - Kafka
       - Doris
       - ClickHouse
+      - HBase
       - Data Warehouse
-      - Data Mining
+      - Flume
+      - DataX
+      - Maxwell
 
 - name: Software Development Skills
   keywords:
+      - Linux
       - MySQL
       - Redis
-      - Spring MVC(SSM)
+      - Neo4j
+      - SpringBoot
+      - SpringCloud
       - Django & Flask
       - Docker & K8s
