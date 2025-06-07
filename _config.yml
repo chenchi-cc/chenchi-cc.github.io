@@ -17,7 +17,7 @@ side_bar_repo_limit: 8
 # ---------------- #
 author: DarrenChan陈驰
 organization: 博客园
-organization_url: https://www.cnblogs.com/darrenchan
+organization_url: https://www.cnblogs.com/DarrenChan
 github_username: chenchi-cc
 location: 北京, 中国
 email: chenchi.darren@gmail.com
@@ -102,10 +102,10 @@ gitment:
         client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
+    owner: chenchi-cc
     repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    clientID: Ov23liEScL6WjOWLhPju
+    clientSecret: 10180e2dd7857bcf79589eae93d8b6682ee1616d
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
