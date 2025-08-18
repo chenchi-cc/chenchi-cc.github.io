@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 我的有道云笔记技术文档
+title: 我的技术笔记
 categories: 技术文档
 description: 各种技术文档均汇总在这里
 keywords: 大数据，后台开发，算法
@@ -30,6 +30,8 @@ keywords: 大数据，后台开发，算法
 - [数仓理论：拉链表](https://note.youdao.com/s/I1bxD5O5)
 
 ### 5.流式计算
+- [流式计算：Flink架构和API](https://share.note.youdao.com/s/1Vx1SImh)
+- [流式计算：Flink SQL](https://share.note.youdao.com/s/ZPOZYXm6)
 - [流式计算：Flink容错和一致性](https://note.youdao.com/s/8Yhrx5tK)
 - [流式计算：Spark Structured Streaming](https://note.youdao.com/s/MS5UoBWC)
 - [流式计算：Kafka](https://note.youdao.com/s/QgxRYh5j)
@@ -43,3 +45,10 @@ keywords: 大数据，后台开发，算法
 - [数据库：MySQL事务基础和事务日志](https://note.youdao.com/s/GfGabC5c)
 - [数据库：MySQL事务锁和MVCC](https://note.youdao.com/s/JBs5o84a)
 - [数据库：Redis](https://note.youdao.com/s/EnLutPkN)
+
+### 8.微服务
+- [微服务：SpringCloud架构图](https://share.note.youdao.com/s/JWFtJEna)
+- [微服务：SpringCloud笔记](https://share.note.youdao.com/s/OrLNX35i)
+  
+### 9.机器学习
+- [机器学习概述](https://share.note.youdao.com/s/R8GNopJ5)
