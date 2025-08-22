@@ -13,7 +13,7 @@ keywords: 大数据，后台开发，算法
 - 数据分析&AI
 - 数据平台
 
-## 数据治理&性能调优
+## 1.数据治理&性能调优
 - **技术栈：** Scala + Shell + Hadoop + Hive + Spark SQL + Scheduler
 - **负责：**
   - PUSH方向的数据治理：主要包括代码治理、任务治理，规范治理，资源治理和时效性治理。
@@ -62,7 +62,7 @@ keywords: 大数据，后台开发，算法
   - 减少70%以上的冗余代码，计算资源减少50%以上；
   - 任务的稳定性得到极大提升，核心任务SLA满足率100%。
 
-## 离线数仓&ETL
+## 2.离线数仓&ETL
 - **技术栈：** Scala + Java + Shell + Hadoop + Hive + Spark SQL + Doris + ClickHouse + MySQL + SpringBoot（SSM）
 - **负责：**
   - PUSH数仓基建，主要采用的Kimball维度建模，实时和离线采用的Lambda架构，后续离线和实时共用一套ODS层数据。
