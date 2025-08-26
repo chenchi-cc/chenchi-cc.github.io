@@ -6,12 +6,11 @@ description: 我的简历项目详细版本
 keywords: 大数据，后台开发，算法
 ---
 ## 0.综述
-简历项目共包括5部分：
+简历项目共包括4部分：
 - 数据治理&性能调优
 - 离线数仓&ETL
 - 实时计算
 - 数据分析&AI
-- 数据平台
 
 ## 1.数据治理&性能调优
 - **技术栈：** Scala + Shell + Hadoop + Hive + Spark SQL + Scheduler
