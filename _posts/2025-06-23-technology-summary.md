@@ -30,6 +30,7 @@ keywords: 大数据，后台开发，算法
 - [数仓理论：拉链表](https://note.youdao.com/s/I1bxD5O5)
 
 ### 5.流式计算
+- [流式计算：实时数仓架构](https://share.note.youdao.com/s/VATJaiBq)
 - [流式计算：Flink架构和API](https://share.note.youdao.com/s/1Vx1SImh)
 - [流式计算：Flink SQL](https://share.note.youdao.com/s/ZPOZYXm6)
 - [流式计算：Flink容错和一致性](https://note.youdao.com/s/8Yhrx5tK)
